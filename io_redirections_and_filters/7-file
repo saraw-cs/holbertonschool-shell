@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > \x27\w\x27\x22Best School\x22\x27\x5c\x24\x3f\x2a\x5c\x2a\x5c\x2a\x5c\x2a\x5c\x2a:\x27
+echo "Best School" > \w\x27"Best School"'\$?\\\\\*:
