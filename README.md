@@ -1,1 +1,1 @@
-Holberton School - Shell Basics Project
+Holberton School Shell - Init, Files, Variables and Expansions
