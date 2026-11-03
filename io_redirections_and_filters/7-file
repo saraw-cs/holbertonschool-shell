@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Best School" > '\w\x27"Best School"'\$?*\\:'
+printf '%s\n' 'Best School' > "$(cat filename)"
+
